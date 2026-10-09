@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Saurabh Sharma">
+  <defs>
+    <linearGradient id="rule" x1="0" x2="1">
+      <stop offset="0" stop-color="#B8862E" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#B8862E"/>
+      <stop offset="1" stop-color="#B8862E" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#B8862E" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#B8862E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#E4E1DA" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#FBFAF7"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#E4E1DA"/>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#6B7280">
+    <text x="64" y="72">SAURABH SHARMA</text>
+    <text x="1136" y="72" text-anchor="end">FULL-STACK  /  ON-CHAIN  /  PAYMENTS</text>
+  </g>
+
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#15171B" font-weight="600" font-size="46" letter-spacing="-1">
+    <text x="64" y="150">Products where money,</text>
+    <text x="64" y="204">wallets and AI meet.</text>
+  </g>
+
+  <rect x="64" y="228" width="1072" height="1" fill="#E4E1DA"/>
+  <rect x="64" y="228" width="1072" height="1" fill="url(#rule)"/>
+
+  <text x="64" y="262" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#6B7280">Next.js and Node on the web, Solidity and Solana on-chain, and the payment side done carefully.</text>
+
+  <g transform="translate(1040 150)" fill="none" stroke="#C9C5BC" stroke-width="1">
+    <circle r="96"/><circle r="64"/><circle r="32"/>
+    <circle r="4" fill="#B8862E" stroke="none"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></circle>
+    <circle cx="64" r="3" fill="#15171B" stroke="none"><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="18s" repeatCount="indefinite"/></circle>
+    <g><circle cx="96" r="3" fill="#6B7280" stroke="none"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/></g>
+  </g>
+</svg>

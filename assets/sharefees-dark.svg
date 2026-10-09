@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="236" viewBox="0 0 590 236" role="img" aria-label="SHARE-FEES">
+  <rect width="590" height="236" rx="14" fill="#10141B"/>
+  <rect x="0.5" y="0.5" width="589" height="235" rx="14" fill="none" stroke="#1F2630"/>
+  <rect x="36" y="20" width="18" height="2" fill="#D9A441"/>
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="2.5" fill="#8A93A3">
+    <text x="36" y="48">03  /  SHARE-FEES</text>
+    <text x="554" y="48" text-anchor="end">trade-to-credits.vercel.app</text>
+  </g>
+  <text x="36" y="96" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" font-size="24" letter-spacing="-0.5" fill="#EDEFF3">A wallet-native rewards desk.</text>
+  <text x="36" y="130" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#8A93A3">Swaps earn credit at a published ratio. Credit pays out</text>
+  <text x="36" y="154" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#8A93A3">in USDG or buys metered AI. Every tx hash pays once.</text>
+  <rect x="36" y="178" width="518" height="1" fill="#1F2630"/>
+  <text x="36" y="204" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" letter-spacing="0.5" fill="#8A93A3">NEXT.JS  ·  SOLIDITY  ·  POSTGRES  ·  REPLICATE  ·  AI GATEWAY</text>
+  <text x="554" y="204" text-anchor="end" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#D9A441">View ↗</text>
+</svg>
